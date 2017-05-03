@@ -1,5 +1,7 @@
 # basicContext
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/electerious/basicContext.svg)](https://greenkeeper.io/)
+
 Easy-to-use context-menu for your website or web-app.
 
 <img src="http://l.electerious.com/uploads/big/36cc8c250d72a11f92df380595260c37.png" width="257" />
